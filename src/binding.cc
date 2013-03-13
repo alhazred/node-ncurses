@@ -11,7 +11,7 @@
 #  define STDOUT_FILENO 1
 #endif
 
-#include <ncurses_cfg.h>
+#include "ncurses_cfg.h"
 #include <cursesp.h>
 #include <node.h>
 #include <node_object_wrap.h>
